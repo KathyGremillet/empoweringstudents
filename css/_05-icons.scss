@@ -1,0 +1,111 @@
+@font-face {
+    font-family: 'icomoon';
+    src:    url('../fonts/icomoon.eot?gy2ohv');
+    src:    url('../fonts/icomoon.eot?gy2ohv#iefix') format('embedded-opentype'),
+            url('../fonts/icomoon.ttf?gy2ohv') format('truetype'),
+            url('../fonts/icomoon.woff?gy2ohv') format('woff'),
+            url('../fonts/icomoon.svg?gy2ohv#icomoon') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+    /* use !important to prevent issues with browser extensions that change fonts */
+    font-family: 'icomoon' !important;
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-chevron-small-down:before {
+    content: "\e900";
+}
+.icon-chevron-small-left:before {
+    content: "\e901";
+}
+.icon-chevron-small-right:before {
+    content: "\e902";
+}
+.icon-chevron-small-up:before {
+    content: "\e903";
+}
+.icon-circle-with-cross:before {
+    content: "\e904";
+}
+.icon-circle-with-minus:before {
+    content: "\e905";
+}
+.icon-circle-with-plus:before {
+    content: "\e906";
+}
+.icon-circular-graph:before {
+    content: "\e907";
+}
+.icon-cog:before {
+    content: "\e908";
+}
+.icon-location-pin:before {
+    content: "\e909";
+}
+.icon-lock:before {
+    content: "\e90a";
+}
+.icon-menu:before {
+    content: "\e90b";
+}
+.icon-message:before {
+    content: "\e90c";
+}
+.icon-paper-plane:before {
+    content: "\e90d";
+}
+.icon-phone:before {
+    content: "\e90e";
+}
+.icon-quote:before {
+    content: "\e90f";
+}
+.icon-shopping-cart:before {
+    content: "\e910";
+}
+.icon-trophy:before {
+    content: "\e911";
+}
+.icon-user:before {
+    content: "\e912";
+}
+.icon-video:before {
+    content: "\e913";
+}
+.icon-facebook-with-circle:before {
+    content: "\e914";
+}
+.icon-google-with-circle:before {
+    content: "\e915";
+}
+.icon-linkedin-with-circle:before {
+    content: "\e916";
+}
+.icon-pinterest-with-circle:before {
+    content: "\e917";
+}
+.icon-tumblr-with-circle:before {
+    content: "\e918";
+}
+.icon-twitter-with-circle:before {
+    content: "\e919";
+}
+.icon-vimeo-with-circle:before {
+    content: "\e91a";
+}
+.icon-youtube-with-circle:before {
+    content: "\e91b";
+}
+
