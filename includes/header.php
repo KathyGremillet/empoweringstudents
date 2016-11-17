@@ -26,7 +26,7 @@
 		    
 		    <nav role="navigation">
                 <ul class="">
-                    <li<?php if ($page == 'concertations') {echo ' class="active"';} ?> ><a href="./concertations.php">Concertations</a></li>
+                    <li<?php if ($page == 'concertations') {echo ' class="active"';} ?> ><a href="https://intense-tor-27373.herokuapp.com/">Concertations</a></li>
                 </ul>
             </nav>
 		</div>
