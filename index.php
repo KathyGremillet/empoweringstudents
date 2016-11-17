@@ -63,8 +63,8 @@
 						<p>Il reste</p>
 						<p class="time">2j 18h 36min</p>
 						<div>
-							<a href="#" title="En savoir plus" class="btn-info">En savoir plus</a>
-							<a href="#" title="Donner mon avis" class="btn-avis">Donner mon avis</a>
+							<a href="https://intense-tor-27373.herokuapp.com/" title="En savoir plus" class="btn-info">En savoir plus</a>
+							<a href="https://intense-tor-27373.herokuapp.com/" title="Donner mon avis" class="btn-avis">Donner mon avis</a>
 						</div>
 					</div>
 				</div>
@@ -81,8 +81,8 @@
 						<p>Il reste</p>
 						<p class="time">26j 5h 45min</p>
 						<div>
-							<a href="#" title="En savoir plus" class="btn-info">En savoir plus</a>
-							<a href="#" title="Donner mon avis" class="btn-avis">Donner mon avis</a>
+							<a href="https://intense-tor-27373.herokuapp.com/" title="En savoir plus" class="btn-info">En savoir plus</a>
+							<a href="https://intense-tor-27373.herokuapp.com/" title="Donner mon avis" class="btn-avis">Donner mon avis</a>
 						</div>
 					</div>
 				</div>
@@ -99,14 +99,14 @@
 						<p>Il reste</p>
 						<p class="time">12j 5h 24min</p>
 						<div>
-							<a href="#" title="En savoir plus" class="btn-info">En savoir plus</a>
-							<a href="#" title="Donner mon avis" class="btn-avis">Donner mon avis</a>
+							<a href="https://intense-tor-27373.herokuapp.com/" title="En savoir plus" class="btn-info">En savoir plus</a>
+							<a href="https://intense-tor-27373.herokuapp.com/" title="Donner mon avis" class="btn-avis">Donner mon avis</a>
 						</div>
 					</div>
 				</div>
 			</div>
 
-			<a href="#" title="En voir plus" class="btn-voirplus">+ En voir plus</a>
+			<a href="https://intense-tor-27373.herokuapp.com/" title="En voir plus" class="btn-voirplus">+ En voir plus</a>
 
 		</div>
 	</div>
@@ -121,7 +121,7 @@
 				<img src="images/calendrier.png" alt="Calendrier des prochains événements"/>
 			</div>
 
-			<a href="#" title="En voir plus" class="btn-voirplus">+ En voir plus</a>
+			<a href="https://intense-tor-27373.herokuapp.com/" title="En voir plus" class="btn-voirplus">+ En voir plus</a>
 
 		</div>
 	</div>
